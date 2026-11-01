@@ -1,0 +1,4 @@
+Model,Metric,Score
+Linear Regression,R2 Score,0.8598
+Decision Tree,Accuracy,0.8
+Random Forest,Accuracy,0.85
